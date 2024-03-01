@@ -1,0 +1,23 @@
+.trigger-btn {
+  width: 60px;
+  padding: 8px;
+  color: #223a5f;
+  font-family: Bree Serif;
+  font-size: 10px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.trigger-close-btn {
+  border: none;
+  outline: none;
+  font-family: Bree Serif;
+  font-size: 10px;
+  align-self: flex-end;
+  margin-bottom: 8px;
+}

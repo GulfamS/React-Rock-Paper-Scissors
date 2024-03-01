@@ -1,0 +1,15 @@
+.result-btn {
+  font-family: Bree Serif;
+  background-color: #ffffff;
+  font-size: 14px;
+  font-weight: 500;
+  border: none;
+  outline: none;
+  border-radius: 6px;
+  width: 100px;
+  padding: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
